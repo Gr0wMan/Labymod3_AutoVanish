@@ -1,6 +1,7 @@
 {
-  "name": "Example Addon",
+  "name": "AutoVanish",
   "uuid": "%uuid%",
-  "mainClass": "com.example.addon.ExampleAddon",
-  "transformerClass": "com.example.addon.ExampleAddonTransformer"
+  "description": "AutoVanish | Bugs? vk.com/gr0wman",
+  "author": "github.com/Gr0wMan",
+  "mainClass": "gr0wman.addon.AutoVanish"
 }
